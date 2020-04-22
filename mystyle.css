@@ -1,0 +1,53 @@
+body {
+    background-color:rgb(255, 245, 204);
+}
+form {
+    background-color:rgb(255, 230, 128);
+    padding:10px;
+    width:800px;
+    height:900px;
+    margin-left:auto;
+    margin-right:auto;
+    border:1px solid black;
+}
+h1 {
+  text-align:center;
+}
+#explination {
+  background-color:rgb(255, 245, 204);
+  padding:10px;
+  width:560px;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  font-size:115%;
+}
+#button {
+  background-color:rgb(255, 245, 204);
+  font-weight: bold;
+  font-size:120%;
+  font-family: serif;
+  margin-left: 108px;
+}
+#title {
+  font-weight: bold;
+  font-size:135%;
+  font-family: serif
+}
+.input {
+  height:20px;
+  font-size:120%;
+}
+#diameter {
+  width:413px;
+}
+#circumference {
+  width:362px;
+}
+#area {
+  width:362px;
+}
+table {
+  margin-left: 108px;
+  border-spacing: 0 40px;
+}
